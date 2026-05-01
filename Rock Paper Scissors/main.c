@@ -1,4 +1,4 @@
-#include "RPS.c"
+#include "RPS.h"
 
 int main()
 {
